@@ -7,15 +7,15 @@
 
 
 # Site Settings
-title                    : Your Name
-name                     : Your Name
+Ivy McConarty                    : Your Name
+Ivy McConarty                     : Your Name
 # One line about you. It appears under your name on the home page, and it is
 # what search engines and messaging apps show when someone shares your link.
-description              : "Mechanical engineering student at Cornell. [What you like working on.]"
+Mechanical engineering student at Cornell passionate about nuclear energy innovation.              : "Mechanical engineering student at Cornell. [What you like working on.]"
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, aqua, or desert
+color_scheme: aqua # light/default, dark, aqua, or desert
 
 sass:
   style: compressed
