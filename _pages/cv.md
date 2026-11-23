@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 # Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[https://drive.google.com/file/d/1WYiT9dTaMU8sAu5RFkPMgRDccPVd-_Am/view?usp=drive_link]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 ---
@@ -18,13 +18,13 @@ One or two sentences: what you are studying, and what you are looking for next.
 ## Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  Graduation: Month, Year
+  Graduation: May, 2029
 
 ---
 
 ## Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Software:** Autodesk Fusion 360, ANSYS  
+- **Programming:** Python  
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
